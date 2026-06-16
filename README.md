@@ -37,6 +37,14 @@ Keyboard -> keyboard.c -> shell.c
 * Input buffering
 * Control-character handling
 
+# Screenshots
+
+## Shell
+![Shell](screenshots/1.png)
+
+## Commands
+![Commands](screenshots/2.png)
+
 ## Future Work
 
 * Interrupt Descriptor Table (IDT)
