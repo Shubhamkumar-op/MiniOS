@@ -21,23 +21,23 @@ A simple educational operating system kernel written in C and x86 Assembly.
 
 ## Architecture
 
-GRUB
-↓
+GRUB/n
+↓/n
 boot.asm
-↓
+↓/n
 kernel.c
-↓
+↓/n
 shell.c
-↓
+↓/n
 terminal.c
-↓
+↓/n
 VGA Memory
 
-Keyboard
-↓
-keyboard.c
-↓
-shell.c
+Keyboard/n
+↓/n
+keyboard.c/n
+↓/n
+shell.c/n
 
 ## Concepts Implemented
 
